@@ -1,0 +1,13 @@
+flask
+opencv-python
+face-recognition
+pytesseract
+Pillow
+numpy
+flask-cors
+gunicorn
+opencv-contrib-python
+scikit-image
+imutils
+webcolors
+ultralytics

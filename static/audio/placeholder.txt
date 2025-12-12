@@ -1,0 +1,8 @@
+Audio files should be placed in this directory:
+
+- success.mp3 - Success notification sound
+- error.mp3 - Error notification sound  
+- notification.mp3 - General notification sound
+
+You can use any MP3 files of your choice, or create your own audio files.
+For accessibility, ensure the sounds are distinct and not too loud or jarring.
