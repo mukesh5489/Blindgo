@@ -207,24 +207,11 @@ Consider adding a CONTRIBUTING.md file and a PR template to this repo.
 - Mid-term: major features
 - Long-term: vision for the project
 
-(Replace with actual roadmap items.)
-
----
-
-## License
-
-Specify the license here, for example:
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-(Replace with the actual license used by the repo.)
-
 ---
 
 ## Contact
 
 Maintainer: mukesh5489 (GitHub)
-Email: your.email@example.com (optional)
 
 ---
 
@@ -235,9 +222,3 @@ Email: your.email@example.com (optional)
 
 ---
 
-If you'd like, I can:
-- Tailor the Build & Run and Testing sections to the repository's actual languages and commands by inspecting the code,
-- Create a PR that adds this README.md to the repository,
-- Generate additional files (CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENSE) with suggested content.
-
-Tell me which you'd prefer and I will proceed.
